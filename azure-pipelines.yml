@@ -1,7 +1,7 @@
 trigger:
 - main
 
-pool: pool-UAT01
+pool: pool_UAT01
 
 stages:
   - stage:
